@@ -33,7 +33,4 @@ Este proyecto utiliza las siguientes tecnologías principales:
 
 El proyecto sigue el patrón de diseño **Modelo-Vista-Controlador (MVC)**, buscando una clara separación entre la lógica de negocio (Modelo), la interfaz de usuario (Vista, manejada principalmente por Vue.js) y el manejo de las peticiones del usuario (Controlador).
 
-## 🚀 Cómo Empezar (Configuración Local)
-
-Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno de desarrollo:
 
