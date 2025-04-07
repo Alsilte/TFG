@@ -7,11 +7,11 @@
 
 ## **Fase 1: Planificación y Configuración Inicial (1 semana) - 1 al 7 de abril**  
 ✅ **Tareas generales:**  
-- [ ] Definir la estructura del repositorio en GitHub  
-- [ ] Configurar el entorno de desarrollo con Laravel, Vue.js y MySQL  
-- [ ] Definir el esquema de la base de datos en MySQL Workbench  
-- [ ] Configurar autenticación con Laravel Sanctum  
-- [ ] Especificar los requerimientos técnicos y documentación inicial  
+- [X] Definir la estructura del repositorio en GitHub  
+- [] Configurar el entorno de desarrollo con Laravel, Vue.js y MySQL:  
+- [X] Definir el esquema de la base de datos en MySQL Workbench  
+- [] Configurar autenticación con Laravel Sanctum :
+- [X] Especificar los requerimientos técnicos y documentación inicial  
 
 ---
 
