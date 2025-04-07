@@ -85,7 +85,6 @@ CREATE DATABASE IF NOT EXISTS torneos_deportivos
 USE torneos_deportivos;
 
 -- 3. Crear usuario específico para la aplicación
--- NOTA: Reemplazar 'tu_password_seguro' con una contraseña fuerte
 CREATE USER IF NOT EXISTS 'alejandro'@'localhost' IDENTIFIED BY 'trabajofinal';
 
 -- 4. Otorgar permisos al usuario
