@@ -1,0 +1,61 @@
+/* Variables de colores globales */
+:root {
+    --primary-color: #818C30;
+    --secondary-color: #6A7327;
+    --accent-color: #E2F263;
+    --light-color: #F2EB85;
+    --dark-color: #262626;
+    --text-color: #262626;
+    --text-light: #F2EB85;
+    --border-color: #ddd;
+    --border-radius: 8px;
+    --box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos de reset y base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-color);
+    background-color: var(--light-color);
+    background: linear-gradient(to bottom, #fff, var(--light-color));
+    min-height: 100vh;
+}
+
+/* Estilos de botones globales */
+.btn {
+    padding: 0.5rem 1.2rem;
+    border-radius: var(--border-radius);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.btn-sm {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.85rem;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: var(--dark-color);
+}
