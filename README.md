@@ -5,12 +5,11 @@ Aplicación web diseñada para facilitar la organización, administración y seg
 ## ✨ Características Principales
 
 * **Gestión Completa de Torneos:** Creación y configuración de diferentes formatos de competición (liga, copa, grupos).
-* **Registro y Gestión de Participantes:** Sistema de inscripción para clubes/equipos y sistema de invitación para jugadores.
+* **Registro y Gestión de Participantes:** Sistema de inscripción para equipos y sistema de invitación para jugadores.
 * **Planificación y Calendario:** Programación de partidos y visualización de calendario de encuentros.
 * **Seguimiento en Tiempo Real:** Módulo de arbitraje para control de partidos en vivo (registro de eventos como goles, tarjetas, tiempos).
 * **Estadísticas y Clasificaciones:** Visualización de tablas de clasificación, estadísticas por equipo/jugador y rankings actualizados en tiempo real.
-* **Generación de Documentos:** Creación automática de actas oficiales y reportes de partidos.
-* **Perfiles de Usuario:** Roles diferenciados (Administrador, Club/Equipo, Jugador, Árbitro) con permisos y vistas específicas para cada uno.
+* **Perfiles de Usuario:** Roles diferenciados (Administrador, Equipo, Jugador, Árbitro) con permisos y vistas específicas para cada uno.
 * **Portal Público:** Área para consulta de información general de torneos, resultados y estadísticas sin necesidad de registro.
 
 ## 💻 Stack Tecnológico
