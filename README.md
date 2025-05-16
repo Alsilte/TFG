@@ -1,6 +1,6 @@
 # Sistema de Gestión de Torneos Deportivos 🏆⚽🏀
 
-Aplicación web diseñada para facilitar la organización, administración y seguimiento integral de torneos deportivos. Permite gestionar desde la inscripción de clubes y jugadores hasta el seguimiento en tiempo real de partidos, la generación automática de actas y la visualización de estadísticas detalladas.
+Aplicación web diseñada para facilitar la organización, administración y seguimiento integral de torneos deportivos. Permite gestionar desde la inscripción de clubes y jugadores hasta el seguimiento en tiempo real de partidos y la visualización de estadísticas detalladas.
 
 ## ✨ Características Principales
 
